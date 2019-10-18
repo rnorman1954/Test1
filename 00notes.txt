@@ -1,7 +1,7 @@
 1.  Create a file with the masses, initial positions and initial velocities of the objects (planets, stars).
     Maybe use the createCluster programme to create a cluster of  stars.
     This progrmme has many parameters.  Please read the manual carefully.
-    Call this file ?????.in (ie input file).
+    Call this file ?????.in (ie input file - eg data.in).
 
 2.  Use nbody_sh1 to calculate the subsequent evolution of the system.  Call the output file ??.out
 
